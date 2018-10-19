@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">AplikasiResep</string>
+    <string-array name="resep">
+        <item>Nasi Gandul\n</item>
+        <item>Soto Ayam\n</item>
+        <item>Rica Daging\n</item>
+        <item>Rendang\n</item>
+    </string-array>
+    <string-array name="desc">
+        <item> nasi gandul adalah makanan khas pati yang banyak digemari. </item>
+        <item> Soto Ayam merupakan satu dari ratusan ribu kuliner yang ada di Indonesia. </item>
+        <item> Rica-rica merupakan masakan khas Manado yang populer dengan cita rasa pedasnya. </item>
+        <item> Rendang padang asli minang merupakan salah satu hidangan asli nusantara yang telah termahsyur di mancanegara.  </item>
+    </string-array>
+    <string-array name="bahan">
+        <item>  Bahan-bahan yang diperlukan:\n
+
+                1. 250 g Daging Kerbau/sapi,potong-potong berbentuk kotak\n
+                2. 600 g Nasi\n
+                3. 600 ml Santan cair\n
+                4. 2 lembar Daun Salam\n
+                5. 3 cm Lengkuas, kemudian anda memarkan\n
+                6. 2 tangkai Serai, kemudian anda memarkan\n
+                7. minyak untuk menumis\n
+
+
+                Bumbu (dihaluskan) :\n
+
+                1. 9 butir Bawang Merah\n
+                2. 5 siung Bawang Putih\n
+                3. 3 buah Cabai Merah\n
+                4. 1 cm Kencur\n
+                5. 1 buah Kluwek,ambil isinya\n
+                6. ¼ sdt Jintan\n
+                7. ¼ sdt Ketumbar\n
+                8. ½ sdt Merica\n
+                9. 1 sdt Garam\n
+        </item>
+        <item>
+                Bahan : \n
+                1. Ayam 1 ekor\n
+                2. Kol 200 g, iris tipis\n
+                3. Tauge 200 g, bersihkan dan kukus hingga matang\n
+                4. Tomat 2 buah, bagi menjadi 6 bagian\n
+                5. Soun 50 g, rendam dengan air panas\n
+                6. Telur ayam 3 butir, rebus hingga matang kemudian iris menjadi 4 bagian\n
+                7. Air 2 L\n
+                8. Bawang goreng 50 g\n
+                9. Daun jeruk 3 lembar\n
+                10. Serai 2 batang\n
+                11. Daun salam 2 lembar\n
+                12. Daun bawang 1 batang, iris halus\n
+                13. Lengkuas 25 g\n
+                14. Minyak goreng 2 sdm\n
+                15. Kunyit 2 cm\n
+                16. Kemiri 4 buah\n
+                17. Jahe 15 g\n
+                18. Bawang merah 3 buah\n
+                19. Bawang putih 2 siung\n
+                20. Merica sdt\n
+                21. Garam 2 sdm\n
+                22. jeruk nipis 1 buah, bagi menjadi 8 bagian\n
+        </item>
+        <item>
+                Bahan : \n
+                1. 500 gram daging sapi \n
+                2. 2 liter air\n
+                3. 3 cm jahe, geprek\n
+                4. 5 lembar daun jeruk \n
+                5. 1 batang serai, geprek \n
+                6. garam secukupnya \n
+                7. 1/2 sdt merica \n
+                8. 1 sdt gula pasir \n
+                9. 2 sdm kecap manis bango \n
+                10. 1/2 sdt royco sapi \n
+                11. 1/2 sdt terasi bakar\n
+                12. 2 sdm air asam jawa\n
+                13. 1 buah tomat, iris\n
+                14. bawang goreng untuk raburan\n
+                15. minyak untuk menumis\n
+
+        </item>
+        <item>
+                Bahan : \n
+                1. 1.5 kg daging\n
+                2. 2 liter santan dari 2 butir kelapa tua \n
+                3. 2 batang daun serai, memarkan \n
+                4. 4 lembar daun jeruk purut \n
+                5. 2 cm asam kandis/gelugur\n
+                6. 2 lembar daun kunyit, simpulkan \n
+                7. garam sesuai selera \n
+                8. sdt merica \n
+        </item>
+    </string-array>
+    <string-array name="cara">
+        <item>
+                Cara Memasak : \n
+                1. Langkah pertama tumis bumbu yang sudah dihaluskan hingga harum, kemudian tambahkan daun salam, lengkuas dan serai hingga kembali harum, tumis hingga rata\n
+                2. Lalu masukan daging hingga berubah warna , aduk kembali hingga empuk\n
+                3. Untuk mendapatkan rasa gurih, tambahkan santan dan masak di atas api kecil hingga daging menjadi lunak dan air meresap\n
+                4. Setelah lunak dan mengental angkat\n
+        </item>
+        <item>  Cara Memasak : \n
+                1. Ayam yang sudah di rebus dalam kuah kemudian goreng hingga berwarna kecoklatan setelah itu suwir ayam kecil-kecil.\n
+                2. Siapkan wadah bersih berupa mangkuk untuk menyajikan soto.\n
+                3. Soto ayam bisa dihidangkan dengan nasi atau soto. Taruh terlebih dahulu nasi atau lontong ke dalam mangkuk.\n
+        </item>
+        <item>
+                Cara Memasak : \n
+                1. Rebus daging sapi dengan 1,5 liter air dan jahe yang digeprek hingga matang, angkat daging lalu potong-potong dan sebaiknya jangan terlalu tebal supaya lebih cepat empuk.\n
+                2. Tumis bumbu halus dengan sedikit minyak, tambahkan daun jeruk dan serai lalu masak hingga harum. Masukkan potongan daging, air asam jawa dan terasi bakar. Aduk kemudian tambahkan sekitar 1/2 liter air agar daging lebih empuk.\n
+                3. Masak sampai mendidih, beri garam, gula dan merica serta royco sapi lalu aduk rata. Terakhir masukkan irisan tomat dan kecap manis kemudian masak sampai kuah mengental dan matang. Angkat dan sajikan dengan taburan bawang goreng secukupnya. \n
+
+
+
+        </item>
+        <item>
+                Cara Memasak : \n
+                1. Pertama tama olah daging yang sudah disiapkan, potong-potong daging rendang dengan bentuk dadu atau seukuran yang diinginkan, hanya saja jangan pernah memotong daging terlalu kecil untuk diolah menjadi rendang agar saat dimasak nanti daging tidak hancur.\n
+                2. Tuangkan santan ke wajan berukuran besar, masukkan pula serai, irisan bawang merah, asam dan daun kunyit. Aduk-aduk hingga santan mendidih dan pastikan santan yang anda masak tidak pecah, untuk itu Anda harus terus mengaduk-aduk santan hingga mendidih merata.\n
+                3. Setelah santan mendidih, masukkan perlahan bumbu yang telah dihaluskan kedalamnya dan sesekali aduk-aduk selama kurang lebih 20 – 30 menit.\n
+                4. Setelah anda melihat santan tampak berminyak, berarti ini saatnya kamu memasukan potongan daging rendang yang telah dibersihkan dan masak dengan menggunakan api kecil/sedang hingga santan mengental dan mengering serta bumbu meresap ke pori pori daging.\n
+                5. Terus masak hingga daging empuk dan matang merata, jangan lengah untuk terus diaduk-aduk agar bagian dasar tidak gosong dan daging tidak gagal.\n
+                6. Mie ayam spesial komplit siap dinikmati.\n
+        </item>
+    </string-array>
+    <string-array name="title">
+        <item>Cara 1</item>
+        <item>Cara 2</item>
+        <item>Cara 3 </item>
+        <item>Cara 4 </item>
+    </string-array>
+
+
+</resources>
